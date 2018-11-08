@@ -7,7 +7,7 @@
 const char* ssid = "SSID"; // nama wifi kamu
 const char* password = "PASSWORD"; // password wifi kamu
  
-int value1 = OFF, value2 = OFF, value3 = OFF, value4 = OFF;
+int value1 = OFF;
 
 WiFiServer server(80);
  
